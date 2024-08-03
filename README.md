@@ -21,8 +21,8 @@ This project implements a logging system in Python. The system allows logging me
 Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/logger-system.git
-cd logger-system
+git clone https://github.com/akonyakas/logger.git
+cd logger
 ```
 
 ### Running the Code
